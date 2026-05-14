@@ -3,7 +3,7 @@
 
 A lightweight, browser-based peer-to-peer communication platform designed for privacy and speed. ECHO leverages WebRTC to establish direct connections between users, ensuring that messages and media never touch a central server.
 
-### 🚀 [Live Demo (Anonymous Version)]()
+### 🚀 [Live Demo (Anonymous Version)](https://bibeksarkar001.github.io/echo-chat-demo/)
 
 ---
 
@@ -30,7 +30,7 @@ A lightweight, browser-based peer-to-peer communication platform designed for pr
 
 ## 🚀 Getting Started
 
-1. **Launch the App:** Open the [Live Website]().
+1. **Launch the App:** Open the [Live Website](https://bibeksarkar001.github.io/echo-chat-demo/).
 2. **Identity:** you will be asigned a auto generatead code everytime you visite or refresh .
 3. **Connect:** you have to give the code to the person you want to connect with or you have to entere there code to connect .
 4. **Communicate:** Start chatting or initiate a video call instantly.
