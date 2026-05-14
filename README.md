@@ -43,8 +43,8 @@ Alongside this anonymous prototype, there is a **Non-Anonymous** version of ECHO
 
 I have hosted the codebase for this advanced version on my friend Ronak Biswas's GitHub profile as part of our collaborative project work.
 
-* **Non-Anonymous Repository:** [ECHO P2P Chat - Non-Anonymous]()
-* **Live Preview:** [View Non-Anonymous Version]()
+* **Non-Anonymous Repository:** [ECHO P2P Chat - Non-Anonymous](https://github.com/Ronak-biswas/echo-p2p-chat)
+* **Live Preview:** [View Non-Anonymous Version](https://laerproject01.github.io/WebRtc-Application-Prototype-01/)
 
 ## 🛠️ Technologies Used
 
@@ -55,7 +55,7 @@ I have hosted the codebase for this advanced version on my friend Ronak Biswas's
 
 ## 🚀 Getting Started
 
-1. **Launch the App:** Open the [View Non-Anonymous Version]()
+1. **Launch the App:** Open the [View Non-Anonymous Version](https://laerproject01.github.io/WebRtc-Application-Prototype-01/)
 2. **Identity:** Enter a unique **Username** to identify your current session.
 3. **Connect:** Enter your friend's unique username to establish a handshake.
 4. **Communicate:** Start chatting or initiate a video call instantly.
